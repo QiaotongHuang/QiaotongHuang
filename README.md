@@ -52,4 +52,4 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/Q
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-[linkedin]: https://www.linkedin.com/in/allen-exodus-449ba0231/
+[linkedin]: https://www.linkedin.com/in/qiaotong-huang-449ba0231/

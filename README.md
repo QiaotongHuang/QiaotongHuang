@@ -27,9 +27,6 @@ I am a Full-stack Web Developer who is exploring Web3 :wink:
  
  💬 Ask me about Full Stack Development, Web3 and any astrophysics-related stuff.
 
-
-![Profile views](https://gpvc.arturio.dev/QiaotongHuang)  <img src="https://img.shields.io/github/followers/QiaotongHuang?label=Follow" style=" float:left, margin-right:10px" />
-
 ---
 
 ### Tech & Tools Preference

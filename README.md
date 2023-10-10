@@ -1,4 +1,4 @@
-### Hey Allen here 👋
+### Hey Alan here 👋
 
 <!--
 **QiaotongHuang/QiaotongHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -47,4 +47,4 @@ I am a Full-stack Web Developer who is exploring Web3 :wink:
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-[linkedin]: https://www.linkedin.com/in/qiaotong-huang-449ba0231/
+[linkedin]: https://www.linkedin.com/in/qiaotong-alan-huang-449ba0231/

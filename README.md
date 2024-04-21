@@ -21,11 +21,11 @@ I am a Full-stack Web Developer who is exploring Web3 :wink:
  
  🔭 I’m fascinated by **Astrophysics**.
  
- 🌱 I’m currently learning Web3🕸️ and DEFI.
+ 🌱 I’m currently learning data science and Web3🕸️.
  
  🤔 I’m looking to collaborate for open source projects.
  
- 💬 Ask me about Full Stack Development, Web3 and any astrophysics-related stuff.
+ 💬 Ask me about Full Stack Development, data science, Web3 and any astrophysics-related stuff.
 
 ---
 
@@ -36,8 +36,6 @@ I am a Full-stack Web Developer who is exploring Web3 :wink:
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=QiaotongHuang&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/QiaotongHuang)
 
 ---
 

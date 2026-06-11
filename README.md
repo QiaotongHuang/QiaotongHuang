@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ---
 
-I am a Full-stack Web Developer who is exploring Web3 :wink:
+I'm a Software Engineer in FinTech and Capital Markets, focused on distributed systems, cloud infrastructure, data processing, AI-assisted automation, and developer productivity tooling :wink:
  
  🔭 I’m fascinated by **Astrophysics**.
  
  🌱 I’m currently learning data science and Web3🕸️.
  
- 🤔 I’m looking to collaborate for open source projects.
+ 🤔 I’m looking to collaborate on open-source projects.
  
- 💬 Ask me about Full Stack Development, data science, Web3 and any astrophysics-related stuff.
+ 💬 Ask me about Full Stack Development, data science, Web3, and any astrophysics-related stuff.
 
 ---
 
